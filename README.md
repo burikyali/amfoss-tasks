@@ -14,7 +14,7 @@
 [Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Go WASM|Pending
 [Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|Internet Explorer|Pending
 [Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Krypto Scrapper|Pending
-[Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Not Attempted till yet
+[Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Pending
 [Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Figma Ninja|Pending
 [Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Bunny Heist|Pending
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Footfall Counter|Pending
